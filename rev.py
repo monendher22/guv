@@ -1,3 +1,3 @@
 s = input('')
-rev = p[::-1]
+rev = s[::-1]
 print(rev)
