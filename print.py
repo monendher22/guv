@@ -7,5 +7,5 @@ for i in range(0,len(p)):
 if len(p1)==0:
   print("-1")
 else:
-  for k in range(len(l1)):
+  for k in range(len(p1)):
      print(p1[k],end=" ")
